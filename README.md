@@ -70,3 +70,10 @@ We created scatterplots for the variables that showed strongest correlations to 
     <img src = "Images/life-ladder-and-corruption.png" alt = "Scatterplot 3">
 </p>
 
+# Conclusions
+The goal of our analysis was to explore factors that contribute to one's happiness levels. We explored data containing survey participants responses to a number of different questions on topics such as social support, freedom to make life choices, and more. We can make the following conclusions based on our analysis:
+
+## Main Observations
+
+## Future Directions
+
