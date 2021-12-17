@@ -44,7 +44,16 @@ Here we present some of our findings during our exploratory data analysis proces
 
 ## Summary Statistics
 Below we present the max, min, median, and mean values for our updated data frame.
+
 <p align="center">
     <img src = "Images/Summary-statistics.png" alt = "Summary Statistics of Updated Dataframe">
 </p>
+
 One thing to note from the summary statistics presented above is the mean value of 5.44668 on the 'Life Ladder' variable. This variable relfects respondents overall life happiness level on a scale from 0-10. A mean value of roughly 5.45 tells us that on average, survey respondents are only somewhat happy in their daily lives. We expected this number to be slightly higher. This gives us even more reason to conduct analysis on what contributes the most to this variable. Our goal is to provide actionable insight for policymakers to help them design and implement regulations that are most likely to foster a happy society.
+
+## Correlation Heatmap
+Creating a correlation heatmap allowed us to get a baseline idea of which variables in our data frame may most contribute to life happiness. The correlation heatmap is presented below:
+
+<p align="center">
+    <img src = "Images/Summary-statistics.png" alt = "Summary Statistics of Updated Dataframe">
+</p>
