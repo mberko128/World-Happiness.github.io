@@ -73,7 +73,7 @@ We created scatterplots for the variables that showed strongest correlations to 
 </p>
 
 # Conclusions
-The goal of our analysis was to explore factors that contribute to one's happiness levels. We explored data containing survey participants responses to a number of different questions on topics such as social support, freedom to make life choices, and more. We can make the following conclusions based on our analysis:
+Our original goal of this project, in light of the global crisis bringing much disparity to the world, was to highlight certain aspects of someone's life that contribute to their overall happiness. In doing so we hoped to find patterns in the dataset we analyzed, finding relationships between our independent variables and how they relate to one's overall happiness scale. We can then use our findings to improve the lives of many. From our results we came to these conclusions:
 
 ## Main Observations
 
