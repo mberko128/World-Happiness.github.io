@@ -16,6 +16,7 @@
 
 # Introduction
 ***An analysis of what Contributes to World Happiness***
+
 **Michael Berkowitz, Julian Trebach, Jack Eselius, Jacob Buchanan**
 
 
