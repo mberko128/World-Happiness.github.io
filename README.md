@@ -15,9 +15,9 @@
 
 
 # Introduction
-***An analysis of what Contributes to World Happiness***
+**An analysis of what Contributes to World Happiness**
 
-**Michael Berkowitz, Julian Trebach, Jack Eselius, Jacob Buchanan**
+***By: Michael Berkowitz, Julian Trebach, Jack Eselius, Jacob Buchanan***
 
 
 The COVID-19 pandemic has brought to light just how important happiness and mental health is in our lives. During times of lockdown, many individuals found themselves struggling with mental health issues and craving the things and activities that bring us most joy. In other words, the pandemic highlighted just how important being happy is for our mental health and forced us to reflect on the specific elements of our lives that bring us happiness.
