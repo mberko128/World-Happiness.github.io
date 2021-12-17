@@ -9,6 +9,7 @@
     -   [Future Directions](#future-directions)
 -   [Run Notebook in Google Colab](#run-notebook-in-google-colab)
 -   [Youtube Video Link](#youtube-video-link)
+-   [Assertion-Evidence Presentation Link](#Assertion-evidence-presentation-link)
 -   [Inquiries](#inquiries)
 -   [Data Sources](#data-sources)
 -   [Acknowledgments](#acknowledgments)
