@@ -104,4 +104,10 @@ For inquiries about this project, please contact Michael Berkowitz at <a href="m
 - [UN 2021 World Happiness Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021-world/data?select=world-happiness-report.csv)
 
 # Acknowledgments
+- Singh, Ajaypal. [*UN World Happiness Data*](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021-world/data?select=world-happiness-report.csv), 2021
 
+
+- “The Pandemic Has Changed the Shape of Global Happiness.” The Economist, The Economist Newspaper, https://www.economist.com/international/2021/03/20/the-pandemic-has-changed-the-shape-of-global-happiness. 
+
+
+- “How Has Covid-19 Affected World Happiness?” CIFAR, 24 Nov. 2021, https://cifar.ca/cifarnews/2021/03/17/how-has-covid-19-affected-world-happiness/. 
