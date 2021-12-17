@@ -55,5 +55,5 @@ One thing to note from the summary statistics presented above is the mean value 
 Creating a correlation heatmap allowed us to get a baseline idea of which variables in our data frame may most contribute to life happiness. The correlation heatmap is presented below:
 
 <p align="center">
-    <img src = "Images/Summary-statistics.png" alt = "Summary Statistics of Updated Dataframe">
+    <img src = "Images/correlation-heatmap.png" alt = "Correlation Heatmap of Updated Dataframe">
 </p>
