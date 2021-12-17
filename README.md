@@ -94,6 +94,9 @@ Click the link below to run [our notebook](...) directly in Google Collab. No co
 # Youtube Video Link
 Check out our walkthrough video [here](...)!
 
+# Assertion-Evidence Presentation Link
+Check out our presentation [here](...)!
+
 # Inquiries
 For inquiries about this project, please contact Michael Berkowitz at <a href="mailto:berkowml@lafayette.edu">berkowml@lafayette.edu</a>, Julian Trebach at <a href="mailto:trebachj@lafayette.edu">trebachj@lafayette.edu</a>, Jack Eselius at <a href="mailto:eseliuse@lafayette.edu">eseliuse@lafayette.edu</a>, or Jacob Buchanan at <a href="mailto:buchanaj@lafayette.edu">buchanaj@lafayette.edu</a>.
 
