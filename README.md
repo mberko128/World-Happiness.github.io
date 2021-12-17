@@ -43,8 +43,7 @@ Negative affect | Ratio | Decribes the average of previous-day affect measures f
 Here we present some of our findings during our exploratory data analysis process. For the complete EDA, please refer to [our Colab notebook](.....)
 
 ## Summary Statistics
-Below is the max, min, median, and mean values for our updated data frame.
+Below we present the max, min, median, and mean values for our updated data frame.
 <p align="center">
-    <img src = "Images/Accidents_Throughout_the_US.png" alt = "Summary Statistics of Updated Dataframe">
-    <img src = "Images/Highway_Network_in_the_US.png" alt = "Map of the Highway Network in the US">
+    <img src = "Images/Summary-statistics.png" alt = "Summary Statistics of Updated Dataframe">
 </p>
