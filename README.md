@@ -79,6 +79,11 @@ Our original goal of this project, in light of the global crisis bringing much d
 ## Main Observations
 
 ## Future Directions
+From our analysis, there are a few recommendations we could provide to policymakers for them to foster feelings of happiness among society. Healthy life expectancy is a strong contributor to overall happiness levels. Some actions that could be taken here would be ways to increase life expectancy. For example, promoting healthy lifestyle choices: Practicing a proper diet, exercising, making smarter decisions and being less risky in certain situations. Not only this though, but actual spending could be done. For example, increasing government spending for health care or making health care more easily accessible to the public are huge ways to help increase life expectancy. One last way to improve could be to invest in medicine. Making advancements in that field would also greatly benefit life expectancy. As society develops, so would life expectancy.
+
+With social support being another strong contributing factor to life expectancy, policy makers could try to implement programs that are centered around community engagement as much as possible. Increasing community relationships and social connections would be beneficial in fostering an overall sense of happiness among community members.
+
+Lastly, with perceptions of corruption negatively impacting happiness levels, we can recommend that policymakers maintain a transparent relationship with the communities they govern. Especially during the pandemic with hoards of different information and a new level of trust instilled in the government with the creation and distribution of the Covid vaccine, it’s important to maintain transparency. Maintaining a transparent and open relationship between community and government should help foster the largest sense of happiness among the community.
 
 
 # Run Notebook in Google Colab
