@@ -96,7 +96,7 @@ Check out our walkthrough video [here](...)!
 For inquiries about this project, please contact Michael Berkowitz at <a href="mailto:berkowml@lafayette.edu">berkowml@lafayette.edu</a>, Julian Trebach at <a href="mailto:trebachj@lafayette.edu">trebachj@lafayette.edu</a>, Jack Eselius at <a href="mailto:eseliuse@lafayette.edu">eseliuse@lafayette.edu</a>, or Jacob Buchanan at <a href="mailto:buchanaj@lafayette.edu">buchanaj@lafayette.edu</a>.
 
 # Data Source
-- [UN World Happiness Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021-world/data?select=world-happiness-report.csv)
+- [UN 2021 World Happiness Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021-world/data?select=world-happiness-report.csv)
 
 # Acknowledgments
 
