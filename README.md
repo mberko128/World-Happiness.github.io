@@ -77,3 +77,26 @@ The goal of our analysis was to explore factors that contribute to one's happine
 
 ## Future Directions
 
+
+# Run Notebook in Google Colab
+
+Click the link below to run [our notebook](...) directly in Google Collab. No coding is required to run this notebook, you just need to run every code cell in order or simply click Runtime -> Run all and wait for all cells to run.
+
+<table align="left">
+  <td>
+    <a target="_blank" href="..."><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+  </td>
+</table>
+<br> <br> <br>
+
+# Youtube Video Link
+Check out our walkthrough video [here](...)!
+
+# Inquiries
+For inquiries about this project, please contact Michael Berkowitz at <a href="mailto:berkowml@lafayette.edu">berkowml@lafayette.edu</a>, Julian Trebach at <a href="mailto:trebachj@lafayette.edu">trebachj@lafayette.edu</a>, Jack Eselius at <a href="mailto:eseliuse@lafayette.edu">eseliuse@lafayette.edu</a>, or Jacob Buchanan at <a href="mailto:buchanaj@lafayette.edu">buchanaj@lafayette.edu</a>.
+
+# Data Source
+- [UN World Happiness Dataset](https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021-world/data?select=world-happiness-report.csv)
+
+# Acknowledgments
+
