@@ -57,3 +57,16 @@ Creating a correlation heatmap allowed us to get a baseline idea of which variab
 <p align="center">
     <img src = "Images/correlation-heatmap.png" alt = "Correlation Heatmap of Updated Dataframe">
 </p>
+
+## Scatterplots
+We created scatterplots for the variables that showed strongest correlations to our predictor variable of 'Life Ladder'. In our full notebook, you can see all five scatterplots created. Here are a few noteable scatterplots:
+<p align="center">
+    <img src = "Images/life-ladder-and-social-support.png" alt = "Scatterplot 1">
+</p>
+<p align="center">
+    <img src = "Images/life-ladder-and-freedom.png" alt = "Scatterplot 2">
+</p>
+<p align="center">
+    <img src = "Images/life-ladder-and-corruption.png" alt = "Scatterplot 3">
+</p>
+
