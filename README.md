@@ -43,7 +43,7 @@ Positive affect | Ratio | Desrcibes the average of previous-day affect measures 
 Negative affect | Ratio | Decribes the average of previous-day affect measures for worry, sadness, and anger for all years.
 
 # Exploratory Data Analysis
-Here we present some of our findings during our exploratory data analysis process. For the complete EDA, please refer to [our Colab notebook](.....)
+Here we present some of our findings during our exploratory data analysis process. For the complete EDA, please refer to [our Colab notebook](https://github.com/mberko128/World-Happiness.github.io/blob/main/DS201_Final_Project_Berkowitz_Trebach_Eselius_Buchanan.ipynb)
 
 ## Summary Statistics
 Below we present the max, min, median, and mean values for our updated data frame.
