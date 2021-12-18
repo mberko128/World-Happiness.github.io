@@ -93,7 +93,7 @@ Click the link below to run [our notebook](https://github.com/mberko128/World-Ha
 
 <table align="left">
   <td>
-    <a target="_blank" href="..."><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+    <a target="_blank" href="https://colab.research.google.com/github/mberko128/World-Happiness.github.io/blob/main/DS201_Final_Project_Berkowitz_Trebach_Eselius_Buchanan.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
   </td>
 </table>
 <br> <br> <br>
