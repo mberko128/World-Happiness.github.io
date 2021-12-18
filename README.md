@@ -89,7 +89,7 @@ Lastly, with perceptions of corruption negatively impacting happiness levels, we
 
 # Run Notebook in Google Colab
 
-Click the link below to run [our notebook](...) directly in Google Collab. No coding is required to run this notebook, you just need to run every code cell in order or simply click Runtime -> Run all and wait for all cells to run.
+Click the link below to run [our notebook](https://github.com/mberko128/World-Happiness.github.io/blob/main/DS201_Final_Project_Berkowitz_Trebach_Eselius_Buchanan.ipynb) directly in Google Collab. No coding is required to run this notebook, you just need to run every code cell in order or simply click Runtime -> Run all and wait for all cells to run.
 
 <table align="left">
   <td>
