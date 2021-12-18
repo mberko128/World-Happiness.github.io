@@ -99,7 +99,7 @@ Click the link below to run [our notebook](...) directly in Google Collab. No co
 <br> <br> <br>
 
 # Youtube Video Link
-Check out our walkthrough video [here]()!
+Check out our walkthrough video [here](https://youtu.be/RaIqX3a_MTQ)!
 
 # Assertion-Evidence Presentation Link
 Check out our presentation [here](https://youtu.be/mIOdqz2AckE)!
